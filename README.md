@@ -1,4 +1,4 @@
-# Primeiro repositório da Olga (Hello, Word!!!)
+# Primeiro repositório da Olga (Hello, World!!!)
  Primeiro repositorio versionado
 
 
